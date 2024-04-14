@@ -1,4 +1,4 @@
-# HashmapImplementation
+# Hashmap Implementation
 Overview
 This Java program generates a department report based on data stored in CSV files. It reads information about departments, employees, and their relationships from separate CSV files, aggregates the data, and then prints a detailed report.
 
