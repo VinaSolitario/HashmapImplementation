@@ -27,33 +27,4 @@ This Java program generates a department report based on data stored in CSV file
 4. Run the program using the command java Main.
 5. View the generated report in the console.
 
-# Sample Output: 
 
----------------------Details -------------------------
-EmpNo            Employee Name  Job     Salary
-E251            Natividad, Lisa HR Manager      66000.00
-E252            Rosanto, Margareth      HR Specialist   25000.00
-
-Department code: HR
-Department name: Human Resource
-Department total salary: 182000.00
-
----------------------Details -------------------------
-EmpNo            Employee Name  Job     Salary
-E370            Baldo, Jason    Team Leader     42000.00
-E371            Hernandez, Timothy      Junior Accountant       29000.00
-E372            Cruz, Ricardo   CPA     37000.00
-
-Department code: FNC
-Department name: Finance
-Department total salary: 216000.00
-
----------------------Details -------------------------
-EmpNo            Employee Name  Job     Salary
-E123            Maxwell, John   Developer       30000.00
-E124            Delos Reyes, Ernesto    Analyst 45000.00
-E125            Ortiz, Manuel   Tester  51000.00
-
-Department code: IT
-Department name: Information Tech
-Department total salary: 252000.00
